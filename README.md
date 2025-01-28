@@ -10,6 +10,10 @@ Summaries of my pinned repos:
 - __What I did__: Did all of the main menu UI, persistent user settings, as well as audio integration.
 - __Skills used__: Unity Engine, C#
 
+## GDM Studios _(WIP)_
+- __Project summary__: A much longer project (weekly updates until end of March) I'm making with the same fellas as McGameJam. Will add game summary once there's actual playable features.
+- __What I will do__: Pretty sure I'll end up doing the same things as in McGameJam, just to a much larger scale. We'll see what else I get to do.
+- - __Skills used__: Unity Engine, C#
 <!---
 yxL05/yxL05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
