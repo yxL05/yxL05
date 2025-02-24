@@ -11,7 +11,7 @@ Summaries of my pinned repos:
 - __Languages__: Unity Engine, C#
 
 ## GDM Studios _(WIP)_
-- __Project summary__: A much longer project (weekly updates until end of March) I'm making with the same fellas as McGameJam. Will add game summary once there's actual playable features.
+- __Project summary__: A much longer project (weekly updates until end of March) I'm making with the same fellas as McGameJam. It will be a platformer with story elements. Looking forward to the reveal in March!
 - __What I will do__: Pretty sure I'll end up doing the same things as in McGameJam, just to a much larger scale. We'll see what else I get to do.
 - - __Languages__: Unity Engine, C#
  
