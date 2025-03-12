@@ -15,10 +15,6 @@ Summaries of my pinned repos:
 - __What I will do__: Pretty sure I'll end up doing the same things as in McGameJam, just to a much larger scale. We'll see what else I get to do.
 - - __Languages__: Unity Engine, C#
  
-## Wall Following Arduino Robot
-- __Project summary__: A 4-month "internship" (at least that's what they called it) with Dawson college that involved designing Arduino machine capable of very specific tasks that will be used as teaching projects for future Dawson students. Our robot's job is to navigate the outlines of a room and map it. To do so, it needs to (obviously) be able to follow the walls!
-- __What I did__: Made the code for a turn with empty space (see repo link) (the core mechanic of wall navigation) that works in both real-life and simulation.
-- __Languages__: Arduino IDE, C++
 <!---
 yxL05/yxL05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
