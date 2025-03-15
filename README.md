@@ -21,6 +21,9 @@ Summaries of my pinned repos:
 - __Project summary__: A much longer project (weekly updates until end of March) I'm making with the same fellas as McGameJam. It will be a platformer with story elements. Looking forward to the reveal in March!
 - __What I will do__: Pretty sure I'll end up doing the same things as in McGameJam, just to a much larger scale. We'll see what else I get to do.
 - __Languages__: Unity Engine, C#
+
+## Resume
+> https://www.overleaf.com/read/szrxkqcwxffq#490270
  
 <!---
 yxL05/yxL05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
