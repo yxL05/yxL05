@@ -1,7 +1,6 @@
 Summaries of my pinned repos:
 
 ## GDM Studios _(WIP)_
-> Private repo. I'll add an itch.io here when the game is done (due March 28). I can always just send the latest build on request though.
 - __Project summary__: A much longer project (weekly updates until end of March) I'm making with the same fellas as McGameJam. It will be a platformer with story elements. Looking forward to the reveal in March!
 - __What I will do / What I did__: Everything that's UI / settings / main menu. Will update art and sound soon.
 - __Languages__: Unity Engine, C#
