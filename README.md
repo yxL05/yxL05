@@ -1,11 +1,11 @@
 Summaries of my pinned repos:
 
-## GDM Studios _(WIP)_
-- __Project summary__: A much longer project (weekly updates until end of March) I'm making with the same fellas as McGameJam. It will be a platformer with story elements. Looking forward to the reveal in March!
-- __What I will do / What I did__: Everything that's UI / settings / main menu. Will update art and sound soon.
+## Elusive Whispers (Game Dev McGill Studios)
+- __Project summary__: A much longer project I made with the same fellas as McGameJam. It's a platformer with story elements and special abilities. 
+- What I did__: Everything that's UI / settings / main menu / art implementation.
 - __Languages__: Unity Engine, C#
 
-- __CURRENT BUILD__: https://yxl05.itch.io/gdm-studios-team-4-progress
+- __GAME__: https://grezlock.itch.io/elusivewhispers
 > Cool stuff I did: a level selector with persistent user settings that can easily be scaled, pause menu with attempts tracker, loading screen (for scalability).
 
 ## Sheep in Sheep's Clothing (McGameJam 2025)
